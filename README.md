@@ -1,8 +1,7 @@
 # 2018NSYSUTimeSeriesAnalysis
 
-## Place to store homework
-**Homework List**
-1. *Answer question according to given given difference equation.*
+**Homework List:**
+1. *Answer question according to given difference equation.*
 
 2. *Use the same realization of White noise $\varepsilon$'s (set $\sigma_{\varepsilon}^{2}$ = 1) to simulate and plot the following Gaussian process $Y_{t}$ (set $Y_{0}$ = E($Y_{t}$)) in a sample of size T = 50.*
 
@@ -16,4 +15,4 @@
 
 7. *Specify a bivariate VAR(4) model for Taiwan’s GDP and Stock Index from this model to test the Granger-causality between these two variables.*
 
-8. *Unit root testing, using Augmented Dickey-Fuller Test, and Phillips-Perron Test to test the given data.*
+9. *Unit root testing, using Augmented Dickey-Fuller Test, and Phillips-Perron Test to test the given data.*
